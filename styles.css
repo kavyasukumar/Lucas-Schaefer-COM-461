@@ -1,0 +1,9 @@
+body {
+  color: black;
+  text-align: center;
+  background-color: #ffcccc;
+}
+p {
+  line-height: 32px;
+  margin-bottom: 30px; 
+  }
